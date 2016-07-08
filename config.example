@@ -1,0 +1,6 @@
+export HIPCHAT_TOKEN=put_your_hipchat_api_token_here
+export HIPCHAT_FROM=SnobbyDJ
+export HIPCHAT_ROOM="put your hipchat room name here"
+
+export LASTFM_USER=put_your_lastfm_username_here
+export LASTFM_API_KEY=put_your_lastfm_api_key_here
